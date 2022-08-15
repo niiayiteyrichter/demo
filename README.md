@@ -4,4 +4,4 @@ This is a simple readme file
 
 ##I will surely succeed.
 
-Still we're working on it. On a branch
+I hope this isn't much of a problem.
