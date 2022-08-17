@@ -1,7 +1,5 @@
-#Demo Project README
+Sorry, shit happens
 
-This is a simple readme file
+Shit 2.0
 
-##I will surely succeed.
-
-This is bound to cause trouble.
+On another level
